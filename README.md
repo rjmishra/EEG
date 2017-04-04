@@ -1,4 +1,4 @@
-# Seizure prediction using EEG data for epilectc patients
+# Seizure prediction using EEG data for epileptic patients
 
 
 EEG is method of collecting electrical signals associated with activities of brain. It has been used widely used tool for understanding the working of brains and understaing the activities associated with different cognitive process.
